@@ -17,3 +17,10 @@ This is a simple real-time object tracking script using OpenCV’s built-in KCF 
 
 ```bash
 python basic_tracker.py
+Then select the object in the window that pops up.
+
+## 📌 Notes
+
+- Press **'q'** to exit the tracking window.
+- This is a basic example — more advanced trackers (like CSRT, MOSSE) can be explored next.
+
